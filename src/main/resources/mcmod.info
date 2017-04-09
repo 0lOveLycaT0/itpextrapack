@@ -1,0 +1,16 @@
+[
+{
+  "modid": "itpextrapack",
+  "name": "ITP Extra Pack",
+  "description": "Extra Pack For IT-Project Texture Pack",
+  "version": "1.0.0",
+  "mcversion": "1.8.9",
+  "url": "https://github.com/0lOveLycaT0/itpextrapack/wiki",
+  "updateUrl": "https://github.com/0lOveLycaT0/itpextrapack/tags",
+  "authorList": ["lOveLycaT_"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
